@@ -18,20 +18,12 @@ Create a UML diagram that describes the code (and potential data) flow for each 
 
 ## Data Models Include the Following Fields:
 
+
 ### /categories
 
-* id
-* name
-* display_name
-* description
   
 ### /products
 
-* id 
-* category
-* name
-* display_name
-* description
 
 ### To run the server
 
