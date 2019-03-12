@@ -38,5 +38,5 @@ Create a UML diagram that describes the code (and potential data) flow for each 
 * Type the command `npm run watch`
 
 ### UML
-![diagram](./docs/assets/lab9.jpg)
+![diagram](/docs/assets/lab9.jpg)
 
