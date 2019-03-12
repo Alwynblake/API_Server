@@ -1,7 +1,7 @@
 # api_server
 # Simple json-server API
 
-## Author: Alistair Blake
+## Authors: Alistair Blake and Xochil
 
 ## Description
 
