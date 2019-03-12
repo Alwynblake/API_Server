@@ -37,5 +37,6 @@ Create a UML diagram that describes the code (and potential data) flow for each 
 
 * Type the command `npm run watch`
 
-### Links and Resources
-* GitHub Repo: https://github.com/Alwynblake/simple-api
+### UML
+![diagram](./docs/assets/lab9.jpg)
+
