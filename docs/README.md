@@ -1,7 +1,7 @@
 # api_server
 # Simple json-server API
 
-## Authors: Alistair Blake and Xochil
+## Authors: Alistair Blake and Xochil Squaglia
 
 ## Description
 
@@ -15,15 +15,6 @@ Create a UML diagram that describes the code (and potential data) flow for each 
 // PUT /api/v1/:model/:id
 
 ```
-
-## Data Models Include the Following Fields:
-
-
-### /categories
-
-  
-### /products
-
 
 ### To run the server
 
