@@ -14,6 +14,9 @@ const modelFinder = require(`${cwd}/src/middleware/model-finder.js`);
 
 const router = express.Router();
 
+// Static route using express.static
+app.use(express.static('../docs/config/jsdoc.config.json'));
+
 // Evaluate the model, dynamically
 router.param('model', modelFinder);
 

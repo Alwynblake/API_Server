@@ -4,6 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+  "source": {
+    "include" : ["./src"]
+  },
+  "opts": {
+    "destination": "./docs/config",
+    "recurse": true
+},
     "start": "node index.js",
     "lint": "eslint **/*.js",
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json",

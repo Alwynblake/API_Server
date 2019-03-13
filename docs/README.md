@@ -16,9 +16,9 @@ Create a UML diagram that describes the code (and potential data) flow for each 
 
 ```
 
-### To run the server
+### To test the server
 
-* Type the command `npm run watch`
+* Type the command `supertest`
 
 ### UML
 ![diagram](/docs/assets/lab9.jpg)
