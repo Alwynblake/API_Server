@@ -15,11 +15,14 @@ Create a UML diagram that describes the code (and potential data) flow for each 
 // PUT /api/v1/:model/:id
 
 ```
+## jsDoc
+![link](/docs/index.html)
 
 ### To test the server
 
 * Type the command `supertest`
 
 ### UML
+
 ![diagram](/docs/assets/lab9.jpg)
 
